@@ -23,6 +23,8 @@ This project was built **for a real client**, with the goal of:
 
 The design avoids gimmicks and instead focuses on **clarity, authority, and elegance**.
 
+---
+
 This project is production-tested and deployed for a real client.
 
 ```txt
