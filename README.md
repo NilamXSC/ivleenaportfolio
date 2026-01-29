@@ -25,7 +25,7 @@ The design avoids gimmicks and instead focuses on **clarity, authority, and eleg
 
 ---
 
-This project is production-tested and deployed for a real client.
+## This project is production-tested and deployed for a real client.
 
 ```txt
 1. Framework Choice
