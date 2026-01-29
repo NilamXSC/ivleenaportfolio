@@ -1,18 +1,31 @@
-## 🧠 Design & Development Decisions
+# Ivleena Chakraborty – Tourism Consultant Portfolio
 
-- **Vite over Next.js**: Faster builds, simpler mental model, and ideal for a content-focused, animation-heavy portfolio  
-- **Tailwind CSS**: Enables rapid iteration while maintaining a consistent, scalable design system  
-- **Framer Motion**: Chosen for precise control over animation timing, easing, and choreography  
-- **Google Fonts via HTML `<link>`**: Prevents PostCSS/Vite build issues and ensures production reliability  
-- **Strict Tailwind content paths**: Ensures fast builds and avoids infinite file scanning issues on CI/CD  
+A premium, performance-focused personal portfolio website built for **Ivleena Chakraborty**, Tourism Consultant at the **Assam Tourism Development Corporation (ATDC)**.  
+The site showcases her professional journey, landmark tourism projects, and international collaborations with a refined visual identity inspired by Assam’s landscapes and culture.
+
+🔗 **Live Website:** https://ivleenaportfolio.vercel.app
+
+The portfolio features:
+- A cinematic hero section inspired by the Brahmaputra and Northeast India’s terrain  
+- Elegant typography using Playfair Display & Inter  
+- Subtle motion-driven interactions for a premium, modern feel  
+- A clean, editorial-style About section highlighting experience and impact  
 
 ---
 
-## 📌 IMPORTANT (Read This Before Modifying)
+## 🧩 Project Purpose
 
-```txt
+This project was built **for a real client**, with the goal of:
+- Creating a **strong personal brand presence**
+- Communicating **credibility and scale of work**
+- Making the portfolio suitable for **government, international, and corporate stakeholders**
+- Ensuring **fast load times, SEO-readiness, and production-grade deployment**
+
+The design avoids gimmicks and instead focuses on **clarity, authority, and elegance**.
+
 This project is production-tested and deployed for a real client.
 
+```txt
 1. Framework Choice
    - This is a Vite + React project, NOT Next.js.
    - There is no `pages/` or `app/` routing system.
@@ -45,8 +58,9 @@ This project is production-tested and deployed for a real client.
      be exaggerated when extending the project.
 ```
 
-```txt
+
 📈 Client Value Delivered
+```txt
 
 A polished digital identity suitable for government, corporate, and international audiences
 
@@ -62,10 +76,9 @@ Event partners
 
 Media & institutional stakeholders
 ```
-```txt
 
 👤 Author
-
+```txt
 NilamXSC
 Frontend Developer | UI Engineer
 
