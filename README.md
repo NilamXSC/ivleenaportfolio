@@ -30,28 +30,15 @@ The design avoids gimmicks and instead focuses on **clarity, authority, and eleg
 ```txt
 1. Framework Choice
    - This is a Vite + React project, NOT Next.js.
-   - There is no `pages/` or `app/` routing system.
-   - Adding Next.js-style routing will break the build.
 
 2. Font Loading (Critical)
    - Google Fonts are loaded via <link> tags in index.html.
-   - Fonts MUST NOT be imported using CSS @import.
-   - Reintroducing CSS @import may cause Vite/PostCSS builds
-     to hang or fail on Vercel/Netlify.
 
 3. Tailwind Configuration
-   - Tailwind content paths are intentionally strict:
-       ./index.html
-       ./src/**/*.{ts,tsx,js,jsx}
-   - Do NOT add broad paths like ./pages/** or ./app/**
-     unless those folders actually exist.
-   - Incorrect paths can cause infinite JIT scans
-     and stalled production builds.
+   - Tailwind content paths are intentionally strict.
 
 4. Case-Sensitive Imports
    - The project is deployed on Linux-based environments.
-   - File and folder name casing MUST match imports exactly.
-   - What works on Windows locally may fail in production.
 
 5. Client Context
    - Design decisions prioritize clarity, authority,
@@ -61,7 +48,7 @@ The design avoids gimmicks and instead focuses on **clarity, authority, and eleg
 ```
 
 
-📈 Client Value Delivered
+## 📈 Client Value Delivered
 ```txt
 
 A polished digital identity suitable for government, corporate, and international audiences
@@ -79,7 +66,7 @@ Event partners
 Media & institutional stakeholders
 ```
 
-👤 Author
+## 👤 Author
 ```txt
 NilamXSC
 Frontend Developer | UI Engineer
