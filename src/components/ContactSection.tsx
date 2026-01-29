@@ -20,7 +20,7 @@ const ContactSection = () => {
             </h2>
             <p className="text-cream/80 text-lg max-w-2xl mx-auto mb-12">
               Whether you're planning a major tourism initiative, seeking collaboration 
-              on cultural events, or exploring partnership opportunities in Northeast India — 
+              on cultural events, or exploring partnership opportunities in Northeast India -
               I'd love to hear from you.
             </p>
           </motion.div>
