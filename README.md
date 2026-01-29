@@ -44,6 +44,8 @@ This project is production-tested and deployed for a real client.
    - Animations are subtle by design and should not
      be exaggerated when extending the project.
 ```
+
+```txt
 📈 Client Value Delivered
 
 A polished digital identity suitable for government, corporate, and international audiences
@@ -59,6 +61,8 @@ International collaborators
 Event partners
 
 Media & institutional stakeholders
+```
+```txt
 
 👤 Author
 
@@ -66,3 +70,4 @@ NilamXSC
 Frontend Developer | UI Engineer
 
 GitHub: https://github.com/NilamXSC
+```
