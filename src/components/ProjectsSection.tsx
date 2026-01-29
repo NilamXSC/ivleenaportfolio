@@ -50,7 +50,7 @@ const projects = [
     location: "Guwahati, Assam",
     image: concertImage,
     description:
-      "A historic milestone in Assam's cultural calendar — the first-ever major international concert in Northeast India. Part of Assam's ambitious concert tourism strategy under an MoU with Big Tree Entertainment, this event brought global star Post Malone to Guwahati.",
+      "A historic milestone in Assam's cultural calendar, the first-ever major international concert in Northeast India. Part of Assam's ambitious concert tourism strategy under an MoU with Big Tree Entertainment, this event brought global star Post Malone to Guwahati.",
     highlights: [
       "First international concert in Northeast India",
       "Part of strategic MoU with Big Tree Entertainment",
