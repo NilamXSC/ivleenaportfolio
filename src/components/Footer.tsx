@@ -56,7 +56,7 @@ const Footer = () => {
 
           {/* Copyright */}
           <p className="text-sm text-center">
-            © {currentYear} All rights reserved. Made by{" "}
+            © {currentYear} All rights reserved. Developed by{" "}
             <a 
               href="https://nilamxsc.dev" 
               target="_blank" 
