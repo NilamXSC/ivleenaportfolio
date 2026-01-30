@@ -3,10 +3,10 @@ import { MapPin, Award, Calendar, Globe, Linkedin } from "lucide-react";
 import profileImage from "@/assets/ivleena-profile.jpeg";
 
 const stats = [
-  { icon: Calendar, label: "Years of Experience", value: "5+" },
-  { icon: Globe, label: "International Events", value: "10+" },
-  { icon: Award, label: "Major Projects", value: "20+" },
-  { icon: MapPin, label: "Destinations Covered", value: "50+" },
+  { icon: Calendar, label: "Years of Experience", value: "3" },
+  { icon: Globe, label: "International Events", value: "4+" },
+  { icon: Award, label: "Major Projects", value: "7" },
+  { icon: MapPin, label: "Destinations Covered", value: "10+" },
 ];
 
 const AboutSection = () => {
